@@ -3,7 +3,7 @@
 * Intrests in athletics (Biking and Skimo)
 * Goal in this class is to learn more about all the coding languages
 * Experiance NONE
-* typing speen 40 WPM
+* typing speed 40 WPM
 
 ## Term 1 
 
