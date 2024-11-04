@@ -8,7 +8,7 @@
 ## Term 1 
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls with the ablilty to save images. 
-![] () 
+![Running Ap] (https://github.com/9710346/programmingportfolio/blob/main/images/Calc1%202024.png?raw=true) 
 [] () 
 ## Term 2 
 ### Calculator 
