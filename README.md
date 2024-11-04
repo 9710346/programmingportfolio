@@ -6,5 +6,12 @@
 * typing speed 40 WPM
 
 ## Term 1 
-
+### Etch-A-Sketch
+Graphics project with keypress drawing controls with the ablilty to save images. 
+![] () 
+[] () 
 ## Term 2 
+### Calculator 
+Object orineted graphical calculator with custom buttons and UI. 
+! [] () 
+[] () 
