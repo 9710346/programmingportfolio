@@ -13,8 +13,7 @@ Graphics project with keypress drawing controls with the ablilty to save images.
 ### Time Line 
 Information about the history of Computer Systems. 
 ![Running App](https://github.com/9710346/programmingportfolio/blob/main/src/Timeline.pde) 
-
-
+Screenshot 2024-12-18 at 9.03.36 AM.png 
 
 
 [Source Code](https://github.com/9710346/programmingportfolio/tree/main/src/etchASketch)
