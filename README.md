@@ -36,3 +36,19 @@ OOP Space Game with levels and power ups
 ![Running App](https://github.com/9710346/programmingportfolio/blob/main/Screenshot%202025-02-21%20at%2011.54.57%20AM.png)
 
 [Source Code](https://github.com/9710346/programmingportfolio/tree/main/src/ShapeTesterFinal.java%20(1))
+
+## Term 4 (Group Projects)
+### kjrgkjnfgkn
+![Running App]
+
+[Source code]
+
+### C-Sharp App
+![Running App]
+
+[Source Code}
+
+
+## Certifications 
+### Computer Promming 2 Certification 
+![Running App] 
