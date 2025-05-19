@@ -44,9 +44,8 @@ OOP Space Game with levels and power ups
 [Source code]
 
 ### C-Sharp App
-![Running App]
-
-[Source Code}
+![Running App](https://github.com/HenryBald/CSharp/blob/main/assets/CSharpStartScreen.png)
+[Source Code](https://github.com/HenryBald/CSharp.git)
 
 
 ## Certifications 
