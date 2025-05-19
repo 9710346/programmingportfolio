@@ -39,9 +39,9 @@ OOP Space Game with levels and power ups
 
 ## Term 4 (Group Projects)
 ### kjrgkjnfgkn
-![Running App]
+![Running App](https://github.com/HenryBald/Madlib/blob/e23352fadde1e2d16bc0890ccd71d97c251933a5/src/madComedy.png)
 
-[Source code]
+[Source code](https://github.com/HenryBald/Madlib.git)
 
 ### C-Sharp App
 ![Running App](https://github.com/HenryBald/CSharp/blob/main/assets/CSharpStartScreen.png)
